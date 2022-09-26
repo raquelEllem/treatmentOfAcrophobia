@@ -1,0 +1,279 @@
+Untitled Document
+	  	*Baffi Medicina Laboratorial*
+ 
+CNPJ:28.830.297/0001-31 - CVS/SES E-08/117.609/75
+Rua Monsenhor Bacelar, 154-Centro/Tel.:(24)2247-6481/9965-7050
+Seg. a Sex.: 07:00h ás 18:00h - Sáb.: 07:00h ás 11:00h
+www.baffi.com.br  email: qualidade@baffi.com.br
+Resp.Téc.:Dr.Luciano S. Baffi CRM 52.80897-0 Cremerj: 52-95050-5 	  		  	
+
+  Paciente: 	*RAQUEL ELLEN MARCELINO DE OLIVEIRA * 		 Idade: 	*22 (A)* 		
+000800039288
+  Médico: 	*BEATRIZ KERN NOEL * 		 Data Coleta: 	*23/06/16 07:07  * 	
+  Convênio: 	*CLINICA LOUIS PASTEUR* 		 Data Emissão: 	*27/06/16 10:38  * 	
+
+RESULTADO
+
+  	
+
+/* GLICOSE PÓS TESTE*/
+
+	
+
+/* */
+
+	
+/*104,0*/
+	
+
+/* */
+
+	
+
+/ mg/dl/
+
+  	Método    : 	GOD-PAP-ENZIMÁTICO
+
+  	Material  : 	Sangue
+
+  	V.R.      :  	ATÉ 140,0 mg/dl
+
+  	Comentário:  	Coleta realizada 2 horas após ingestão de 82,5g de
+dextrosol.
+
+ 
+
+  	
+
+/* GLICEMIA JEJUM*/
+
+	
+
+/* */
+
+	
+/*77,0*/
+	
+
+/* */
+
+	
+
+/ mg/dl/
+
+  	Método    : 	OXIDASE
+
+  	Material  : 	Sangue
+
+  	V.R.      :  	PREMATURO..........: 20 A 60 MG/DL
+0 A 1 DIA..........: 40 A 60 MG/DL
+   >1 DIA..........: 50 A 80 MG/DL
+CRIANÇAS E ADULTOS.: 65 A 99 MG/DL
+
+  	Comentário:  	Linearidade.: 500 mg/dl  pré-diabetes acima 99 mg/dl de
+acordo com a população estudada.
+
+ 
+
+	
+
+Folha: 1 de 3  
+"A interpretação de laudos laboratoriais cabe exclusivamente aos médicos
+solicitantes, não cabendo aos pacientes a avaliação quanto às possíveis
+consequências dos resultados."
+Laboratórios Baffi Certificado pela ABNT / NBR ISO 9001/2008.
+
+
+Untitled Document
+	  	*Baffi Medicina Laboratorial*
+ 
+CNPJ:28.830.297/0001-31 - CVS/SES E-08/117.609/75
+Rua Monsenhor Bacelar, 154-Centro/Tel.:(24)2247-6481/9965-7050
+Seg. a Sex.: 07:00h ás 18:00h - Sáb.: 07:00h ás 11:00h
+www.baffi.com.br  email: qualidade@baffi.com.br
+Resp.Téc.:Dr.Luciano S. Baffi CRM 52.80897-0 Cremerj: 52-95050-5 	  		  	
+
+  Paciente: 	*RAQUEL ELLEN MARCELINO DE OLIVEIRA * 		 Idade: 	*22 (A)* 		
+000800039288
+  Médico: 	*BEATRIZ KERN NOEL * 		 Data Coleta: 	*23/06/16 07:07  * 	
+  Convênio: 	*CLINICA LOUIS PASTEUR* 		 Data Emissão: 	*27/06/16 10:38  * 	
+
+RESULTADO
+
+  	*/ HEMOGRAMA - HEM/* 
+
+  *Eritrograma* 	
+
+Valores de Referência
+
+	Régua Referencial
+
+_  Hemácias em milhões_ 	  	*4,48* 	 u^3 	3,95 - 5,05 	
+																														
+
+_  Hemoglobina em g/dL_ 	  	*11,7* 	 g/dL 	11,2 - 14,4 	
+																														
+
+_  Hematócrito_ 	  	*35,4* 	 % 	33,0 - 43,8 	
+																														
+
+_  Vol.Glob.Médio/u3_ 	  	*79,0* 	 fL 	80,0 -  100 	
+																														
+
+_  HCM_ 	  	*26* 	 pg 	26 -   32 	
+																														
+
+_  CHCM_ 	  	*33* 	 g/dL 	32,0 - 35,5 	
+																														
+
+_  RDW_ 	  	*14,1* 	 % 	11,5 - 14,5 	  	
+																														
+
+  *Leucograma*
+
+_ __ Leucócitos por mL_ 		*8.872* 	 /mL 	4.000 - 11.000 	
+																														
+
+_  Bastões_ 	*0,1* 	 % 	*9* 	 /mL 	0 -    550 	
+																														
+
+_  Segmentados_ 	*64,8* 	 % 	*5.749* 	 /mL 	2.160 -  6.820 	
+																														
+
+_  Neutrófilos_ 	*64,9* 	 % 	*5.758* 	 /mL 	1.600 -  7.700 	
+																														
+
+_  Eosinófilos_ 	*2,8* 	 % 	*248* 	 /mL 	40 -    330 	
+																														
+
+_  Basófilos_ 	*0,6* 	 % 	*53* 	 /mL 	0 -    110 	
+																														
+
+_  Linfócitos típicos_ 	*26,1* 	 % 	*2.316* 	 /mL 	1.000 -  3.850 	
+																														
+
+_  Monócitos_ 	*5,6* 	 % 	*497* 	 /mL 	120 -    880 	
+																														
+
+  *Plaquetas* 
+
+_  Plaquetas_ 	  	*200.200* 	 /mm^3 	130.000 - 450.000 	
+																														
+
+_  VPM_ 	  	*6,7* 	 fL 	   7,0  -    10,5 	
+																														
+
+_  Plaquetócrito_ 	  	*0,13* 	 % 	   0,15 -    0,32 	
+																														
+
+_  PDW_ 	  	*20,7* 	  	15,00 -   20,00 	
+																														
+
+  *Morfologia* 
+
+  	
+*Normocitose e Normocromia
+Leucocitos com Morfologia Normal
+Plaquetas com Morfologia Normal*
+
+  	Comentário: 	
+Método.: Automatizado
+
+  	Material  : 	
+Sangue
+
+HISTOGRAMAS
+
+Linfócitos 	Leucócitos 	Plaquetas 	Hemácias
+			
+LYM-BASO-MONO 	MONO-POLY 	PLT 	RBC
+
+	
+
+Folha: 2 de 3  
+"A interpretação de laudos laboratoriais cabe exclusivamente aos médicos
+solicitantes, não cabendo aos pacientes a avaliação quanto às possíveis
+consequências dos resultados."
+Laboratórios Baffi Certificado pela ABNT / NBR ISO 9001/2008.
+
+
+Untitled Document
+	  	*Baffi Medicina Laboratorial*
+ 
+CNPJ:28.830.297/0001-31 - CVS/SES E-08/117.609/75
+Rua Monsenhor Bacelar, 154-Centro/Tel.:(24)2247-6481/9965-7050
+Seg. a Sex.: 07:00h ás 18:00h - Sáb.: 07:00h ás 11:00h
+www.baffi.com.br  email: qualidade@baffi.com.br
+Resp.Téc.:Dr.Luciano S. Baffi CRM 52.80897-0 Cremerj: 52-95050-5 	  		  	
+
+  Paciente: 	*RAQUEL ELLEN MARCELINO DE OLIVEIRA * 		 Idade: 	*22 (A)* 		
+000800039288
+  Médico: 	*BEATRIZ KERN NOEL * 		 Data Coleta: 	*23/06/16 07:07  * 	
+  Convênio: 	*CLINICA LOUIS PASTEUR* 		 Data Emissão: 	*27/06/16 10:38  * 	
+
+RESULTADO
+
+  	*/ V D R L/* 
+
+	
+
+_Resultado_ 
+
+	
+
+*:*
+
+		
+
+*/Não reagente/*
+
+  	Método    : 	  	
+
+FLOCULAÇÃO
+
+  	Material  : 	  	
+
+Sangue
+
+  	V.R.      : 	  	
+
+NÃO REAGENTE
+
+  	Comentário: 	  	
+
+Devido a possibilidade de ocorrer resultados falso-positivos de forma
+transitória em  diversas condições patológicas e fisiológicas sugerimos
+testes confirmatórios (Treponemicos) para auxílio diagnóstico de Lues.
+
+	
+
+Folha: 3 de 3  
+"A interpretação de laudos laboratoriais cabe exclusivamente aos médicos
+solicitantes, não cabendo aos pacientes a avaliação quanto às possíveis
+consequências dos resultados."
+Laboratórios Baffi Certificado pela ABNT / NBR ISO 9001/2008.
+
+
+Registro de Segurança:
+570bcb085574d52e7d7425c5f027037311072016075911146134200123
+
+
+
+ 			 		
+
+	
+
+Envie seu Laudo por e-mail: 
+
+	 	
+
+	
+
+	
+
+	
+
+
+
+
+

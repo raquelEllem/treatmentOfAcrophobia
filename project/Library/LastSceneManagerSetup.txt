@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "C:/Users/raquel/Documents/Reabilita\xE7\xE3o - rift + unity/Projeto Reabilita\xE7\xE3o
+    - unity/Assets/scenes/fim- Oficial.unity"
+  isLoaded: 1
+  isActive: 1
