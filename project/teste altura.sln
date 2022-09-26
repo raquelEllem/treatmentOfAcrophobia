@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste altura.Plugins", "teste altura.Plugins.csproj", "{9CF6891F-4F35-7067-8740-72521290F854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste altura", "teste altura.csproj", "{B61D420A-CDDA-47C5-5EF8-7D473EEFD795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "teste altura.Editor", "teste altura.Editor.csproj", "{75CD9A6C-C043-DC27-5E1E-BAC8D68AB999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CF6891F-4F35-7067-8740-72521290F854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF6891F-4F35-7067-8740-72521290F854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF6891F-4F35-7067-8740-72521290F854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF6891F-4F35-7067-8740-72521290F854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B61D420A-CDDA-47C5-5EF8-7D473EEFD795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B61D420A-CDDA-47C5-5EF8-7D473EEFD795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B61D420A-CDDA-47C5-5EF8-7D473EEFD795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B61D420A-CDDA-47C5-5EF8-7D473EEFD795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75CD9A6C-C043-DC27-5E1E-BAC8D68AB999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CD9A6C-C043-DC27-5E1E-BAC8D68AB999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CD9A6C-C043-DC27-5E1E-BAC8D68AB999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CD9A6C-C043-DC27-5E1E-BAC8D68AB999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

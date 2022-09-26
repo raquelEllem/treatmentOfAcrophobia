@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FobiaAltura.Plugins", "FobiaAltura.Plugins.csproj", "{13DB551C-17AE-3508-144A-B87D98D71A5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FobiaAltura", "FobiaAltura.csproj", "{2D23612C-02DE-2F5C-E95A-9F3E1DFB377F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FobiaAltura.Editor", "FobiaAltura.Editor.csproj", "{7FEDED0B-604C-4B28-F989-0406724EE4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13DB551C-17AE-3508-144A-B87D98D71A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DB551C-17AE-3508-144A-B87D98D71A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DB551C-17AE-3508-144A-B87D98D71A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DB551C-17AE-3508-144A-B87D98D71A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D23612C-02DE-2F5C-E95A-9F3E1DFB377F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D23612C-02DE-2F5C-E95A-9F3E1DFB377F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D23612C-02DE-2F5C-E95A-9F3E1DFB377F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D23612C-02DE-2F5C-E95A-9F3E1DFB377F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEDED0B-604C-4B28-F989-0406724EE4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEDED0B-604C-4B28-F989-0406724EE4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEDED0B-604C-4B28-F989-0406724EE4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEDED0B-604C-4B28-F989-0406724EE4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
