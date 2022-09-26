@@ -1,0 +1,589 @@
+fileFormatVersion: 2
+guid: 86fce7e0b4f842743abc46d1612738f7
+timeCreated: 1474294602
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Apartment
+    100002: ArcLamp_Arc1
+    100004: ArcLamp_Arm
+    100006: ArcLamp_Base
+    100008: ArcLamp_Foot
+    100010: ArcLamp_Grp
+    100012: ArcLamp_Head
+    100014: //RootNode
+    100016: Building_Floor
+    100018: Building_Floor 1
+    100020: Building_Floor 2
+    100022: Building_Floor 3
+    100024: Building_Floor 4
+    100026: Building_Floor 5
+    100028: Building_Floor 6
+    100030: Building_Floor1
+    100032: BuildingFloor
+    100034: BuildingFloor1
+    100036: BuildingFloor2
+    100038: BuildingFloor3
+    100040: BuildingFloor4
+    100042: BuildingFloor5
+    100044: BuildingFloor6
+    100046: BuildingFloors
+    100048: Cabinet
+    100050: Door
+    100052: Door_Grp1
+    100054: DoorBolts
+    100056: DoorFrame
+    100058: DoorHandle
+    100060: DoorHole
+    100062: DoorLock
+    100064: Floor6
+    100066: Floor_Grp
+    100068: GlassDoor
+    100070: GlassDoor 1
+    100072: GlassDoor 10
+    100074: GlassDoor 11
+    100076: GlassDoor 12
+    100078: GlassDoor 13
+    100080: GlassDoor 14
+    100082: GlassDoor 15
+    100084: GlassDoor 16
+    100086: GlassDoor 17
+    100088: GlassDoor 18
+    100090: GlassDoor 19
+    100092: GlassDoor 2
+    100094: GlassDoor 20
+    100096: GlassDoor 21
+    100098: GlassDoor 22
+    100100: GlassDoor 23
+    100102: GlassDoor 3
+    100104: GlassDoor 4
+    100106: GlassDoor 5
+    100108: GlassDoor 6
+    100110: GlassDoor 7
+    100112: GlassDoor 8
+    100114: GlassDoor 9
+    100116: GlassDoor_Grp
+    100118: GlassDoor_Grp1
+    100120: GlassDoor_Grp1 1
+    100122: GlassDoor_Grp1 2
+    100124: GlassDoor_Grp1 3
+    100126: GlassDoor_Grp1 4
+    100128: GlassDoor_Grp1 5
+    100130: GlassDoor_Grp1 6
+    100132: GlassDoorCasing
+    100134: GlassDoorCasing 1
+    100136: GlassDoorCasing 2
+    100138: GlassDoorCasing 3
+    100140: GlassDoorCasing 4
+    100142: GlassDoorCasing 5
+    100144: GlassDoorCasing 6
+    100146: GlassDoorCasing 7
+    100148: GlassDoorCasing1
+    100150: GlassDoorCasing1 1
+    100152: GlassDoorCasing1 2
+    100154: GlassDoorCasing1 3
+    100156: GlassDoorCasing1 4
+    100158: GlassDoorCasing1 5
+    100160: GlassDoorCasing1 6
+    100162: GlassDoorCasing1 7
+    100164: GlassDoorCasing2
+    100166: GlassDoorCasing2 1
+    100168: GlassDoorCasing2 2
+    100170: GlassDoorCasing2 3
+    100172: GlassDoorCasing2 4
+    100174: GlassDoorCasing2 5
+    100176: GlassDoorCasing2 6
+    100178: GlassDoorCasing2 7
+    100180: GlassDoorFrame
+    100182: GlassDoorFrame 1
+    100184: GlassDoorFrame 2
+    100186: GlassDoorFrame 3
+    100188: GlassDoorFrame 4
+    100190: GlassDoorFrame 5
+    100192: GlassDoorFrame 6
+    100194: GlassDoorFrame 7
+    100196: Roof
+    100198: Sofa_Arm
+    100200: Sofa_Arm1
+    100202: Sofa_Body
+    100204: Sofa_Cushion
+    100206: Sofa_Glass
+    100208: Sofa_Glass1
+    100210: Sofa_Grp
+    100212: Sofa_Head
+    100214: Sofa_Pillow
+    100216: Sofa_Pillow1
+    100218: Street_Level
+    100220: TV75
+    100222: TV_Base
+    100224: TV_Grp
+    100226: Wall
+    100228: Wall1
+    100230: Wall3
+    100232: Wall_Balcony
+    100234: Wall_Grp
+    400000: Apartment
+    400002: ArcLamp_Arc1
+    400004: ArcLamp_Arm
+    400006: ArcLamp_Base
+    400008: ArcLamp_Foot
+    400010: ArcLamp_Grp
+    400012: ArcLamp_Head
+    400014: //RootNode
+    400016: Building_Floor
+    400018: Building_Floor 1
+    400020: Building_Floor 2
+    400022: Building_Floor 3
+    400024: Building_Floor 4
+    400026: Building_Floor 5
+    400028: Building_Floor 6
+    400030: Building_Floor1
+    400032: BuildingFloor
+    400034: BuildingFloor1
+    400036: BuildingFloor2
+    400038: BuildingFloor3
+    400040: BuildingFloor4
+    400042: BuildingFloor5
+    400044: BuildingFloor6
+    400046: BuildingFloors
+    400048: Cabinet
+    400050: Door
+    400052: Door_Grp1
+    400054: DoorBolts
+    400056: DoorFrame
+    400058: DoorHandle
+    400060: DoorHole
+    400062: DoorLock
+    400064: Floor6
+    400066: Floor_Grp
+    400068: GlassDoor
+    400070: GlassDoor 1
+    400072: GlassDoor 10
+    400074: GlassDoor 11
+    400076: GlassDoor 12
+    400078: GlassDoor 13
+    400080: GlassDoor 14
+    400082: GlassDoor 15
+    400084: GlassDoor 16
+    400086: GlassDoor 17
+    400088: GlassDoor 18
+    400090: GlassDoor 19
+    400092: GlassDoor 2
+    400094: GlassDoor 20
+    400096: GlassDoor 21
+    400098: GlassDoor 22
+    400100: GlassDoor 23
+    400102: GlassDoor 3
+    400104: GlassDoor 4
+    400106: GlassDoor 5
+    400108: GlassDoor 6
+    400110: GlassDoor 7
+    400112: GlassDoor 8
+    400114: GlassDoor 9
+    400116: GlassDoor_Grp
+    400118: GlassDoor_Grp1
+    400120: GlassDoor_Grp1 1
+    400122: GlassDoor_Grp1 2
+    400124: GlassDoor_Grp1 3
+    400126: GlassDoor_Grp1 4
+    400128: GlassDoor_Grp1 5
+    400130: GlassDoor_Grp1 6
+    400132: GlassDoorCasing
+    400134: GlassDoorCasing 1
+    400136: GlassDoorCasing 2
+    400138: GlassDoorCasing 3
+    400140: GlassDoorCasing 4
+    400142: GlassDoorCasing 5
+    400144: GlassDoorCasing 6
+    400146: GlassDoorCasing 7
+    400148: GlassDoorCasing1
+    400150: GlassDoorCasing1 1
+    400152: GlassDoorCasing1 2
+    400154: GlassDoorCasing1 3
+    400156: GlassDoorCasing1 4
+    400158: GlassDoorCasing1 5
+    400160: GlassDoorCasing1 6
+    400162: GlassDoorCasing1 7
+    400164: GlassDoorCasing2
+    400166: GlassDoorCasing2 1
+    400168: GlassDoorCasing2 2
+    400170: GlassDoorCasing2 3
+    400172: GlassDoorCasing2 4
+    400174: GlassDoorCasing2 5
+    400176: GlassDoorCasing2 6
+    400178: GlassDoorCasing2 7
+    400180: GlassDoorFrame
+    400182: GlassDoorFrame 1
+    400184: GlassDoorFrame 2
+    400186: GlassDoorFrame 3
+    400188: GlassDoorFrame 4
+    400190: GlassDoorFrame 5
+    400192: GlassDoorFrame 6
+    400194: GlassDoorFrame 7
+    400196: Roof
+    400198: Sofa_Arm
+    400200: Sofa_Arm1
+    400202: Sofa_Body
+    400204: Sofa_Cushion
+    400206: Sofa_Glass
+    400208: Sofa_Glass1
+    400210: Sofa_Grp
+    400212: Sofa_Head
+    400214: Sofa_Pillow
+    400216: Sofa_Pillow1
+    400218: Street_Level
+    400220: TV75
+    400222: TV_Base
+    400224: TV_Grp
+    400226: Wall
+    400228: Wall1
+    400230: Wall3
+    400232: Wall_Balcony
+    400234: Wall_Grp
+    2300000: ArcLamp_Arc1
+    2300002: ArcLamp_Arm
+    2300004: ArcLamp_Base
+    2300006: ArcLamp_Foot
+    2300008: ArcLamp_Head
+    2300010: Building_Floor
+    2300012: Building_Floor 1
+    2300014: Building_Floor 2
+    2300016: Building_Floor 3
+    2300018: Building_Floor 4
+    2300020: Building_Floor 5
+    2300022: Building_Floor 6
+    2300024: Building_Floor1
+    2300026: Cabinet
+    2300028: Door
+    2300030: DoorBolts
+    2300032: DoorFrame
+    2300034: DoorHandle
+    2300036: DoorHole
+    2300038: DoorLock
+    2300040: Floor6
+    2300042: GlassDoor
+    2300044: GlassDoor 1
+    2300046: GlassDoor 10
+    2300048: GlassDoor 11
+    2300050: GlassDoor 12
+    2300052: GlassDoor 13
+    2300054: GlassDoor 14
+    2300056: GlassDoor 15
+    2300058: GlassDoor 16
+    2300060: GlassDoor 17
+    2300062: GlassDoor 18
+    2300064: GlassDoor 19
+    2300066: GlassDoor 2
+    2300068: GlassDoor 20
+    2300070: GlassDoor 21
+    2300072: GlassDoor 22
+    2300074: GlassDoor 23
+    2300076: GlassDoor 3
+    2300078: GlassDoor 4
+    2300080: GlassDoor 5
+    2300082: GlassDoor 6
+    2300084: GlassDoor 7
+    2300086: GlassDoor 8
+    2300088: GlassDoor 9
+    2300090: GlassDoorCasing
+    2300092: GlassDoorCasing 1
+    2300094: GlassDoorCasing 2
+    2300096: GlassDoorCasing 3
+    2300098: GlassDoorCasing 4
+    2300100: GlassDoorCasing 5
+    2300102: GlassDoorCasing 6
+    2300104: GlassDoorCasing 7
+    2300106: GlassDoorCasing1
+    2300108: GlassDoorCasing1 1
+    2300110: GlassDoorCasing1 2
+    2300112: GlassDoorCasing1 3
+    2300114: GlassDoorCasing1 4
+    2300116: GlassDoorCasing1 5
+    2300118: GlassDoorCasing1 6
+    2300120: GlassDoorCasing1 7
+    2300122: GlassDoorCasing2
+    2300124: GlassDoorCasing2 1
+    2300126: GlassDoorCasing2 2
+    2300128: GlassDoorCasing2 3
+    2300130: GlassDoorCasing2 4
+    2300132: GlassDoorCasing2 5
+    2300134: GlassDoorCasing2 6
+    2300136: GlassDoorCasing2 7
+    2300138: GlassDoorFrame
+    2300140: GlassDoorFrame 1
+    2300142: GlassDoorFrame 2
+    2300144: GlassDoorFrame 3
+    2300146: GlassDoorFrame 4
+    2300148: GlassDoorFrame 5
+    2300150: GlassDoorFrame 6
+    2300152: GlassDoorFrame 7
+    2300154: Roof
+    2300156: Sofa_Arm
+    2300158: Sofa_Arm1
+    2300160: Sofa_Body
+    2300162: Sofa_Cushion
+    2300164: Sofa_Glass
+    2300166: Sofa_Glass1
+    2300168: Sofa_Head
+    2300170: Sofa_Pillow
+    2300172: Sofa_Pillow1
+    2300174: Street_Level
+    2300176: TV75
+    2300178: TV_Base
+    2300180: Wall
+    2300182: Wall1
+    2300184: Wall3
+    2300186: Wall_Balcony
+    3300000: ArcLamp_Arc1
+    3300002: ArcLamp_Arm
+    3300004: ArcLamp_Base
+    3300006: ArcLamp_Foot
+    3300008: ArcLamp_Head
+    3300010: Building_Floor
+    3300012: Building_Floor 1
+    3300014: Building_Floor 2
+    3300016: Building_Floor 3
+    3300018: Building_Floor 4
+    3300020: Building_Floor 5
+    3300022: Building_Floor 6
+    3300024: Building_Floor1
+    3300026: Cabinet
+    3300028: Door
+    3300030: DoorBolts
+    3300032: DoorFrame
+    3300034: DoorHandle
+    3300036: DoorHole
+    3300038: DoorLock
+    3300040: Floor6
+    3300042: GlassDoor
+    3300044: GlassDoor 1
+    3300046: GlassDoor 10
+    3300048: GlassDoor 11
+    3300050: GlassDoor 12
+    3300052: GlassDoor 13
+    3300054: GlassDoor 14
+    3300056: GlassDoor 15
+    3300058: GlassDoor 16
+    3300060: GlassDoor 17
+    3300062: GlassDoor 18
+    3300064: GlassDoor 19
+    3300066: GlassDoor 2
+    3300068: GlassDoor 20
+    3300070: GlassDoor 21
+    3300072: GlassDoor 22
+    3300074: GlassDoor 23
+    3300076: GlassDoor 3
+    3300078: GlassDoor 4
+    3300080: GlassDoor 5
+    3300082: GlassDoor 6
+    3300084: GlassDoor 7
+    3300086: GlassDoor 8
+    3300088: GlassDoor 9
+    3300090: GlassDoorCasing
+    3300092: GlassDoorCasing 1
+    3300094: GlassDoorCasing 2
+    3300096: GlassDoorCasing 3
+    3300098: GlassDoorCasing 4
+    3300100: GlassDoorCasing 5
+    3300102: GlassDoorCasing 6
+    3300104: GlassDoorCasing 7
+    3300106: GlassDoorCasing1
+    3300108: GlassDoorCasing1 1
+    3300110: GlassDoorCasing1 2
+    3300112: GlassDoorCasing1 3
+    3300114: GlassDoorCasing1 4
+    3300116: GlassDoorCasing1 5
+    3300118: GlassDoorCasing1 6
+    3300120: GlassDoorCasing1 7
+    3300122: GlassDoorCasing2
+    3300124: GlassDoorCasing2 1
+    3300126: GlassDoorCasing2 2
+    3300128: GlassDoorCasing2 3
+    3300130: GlassDoorCasing2 4
+    3300132: GlassDoorCasing2 5
+    3300134: GlassDoorCasing2 6
+    3300136: GlassDoorCasing2 7
+    3300138: GlassDoorFrame
+    3300140: GlassDoorFrame 1
+    3300142: GlassDoorFrame 2
+    3300144: GlassDoorFrame 3
+    3300146: GlassDoorFrame 4
+    3300148: GlassDoorFrame 5
+    3300150: GlassDoorFrame 6
+    3300152: GlassDoorFrame 7
+    3300154: Roof
+    3300156: Sofa_Arm
+    3300158: Sofa_Arm1
+    3300160: Sofa_Body
+    3300162: Sofa_Cushion
+    3300164: Sofa_Glass
+    3300166: Sofa_Glass1
+    3300168: Sofa_Head
+    3300170: Sofa_Pillow
+    3300172: Sofa_Pillow1
+    3300174: Street_Level
+    3300176: TV75
+    3300178: TV_Base
+    3300180: Wall
+    3300182: Wall1
+    3300184: Wall3
+    3300186: Wall_Balcony
+    4300000: Roof
+    4300002: Floor6
+    4300004: Wall1
+    4300006: Wall3
+    4300008: GlassDoorCasing1
+    4300010: GlassDoor
+    4300012: GlassDoorCasing2
+    4300014: GlassDoor
+    4300016: GlassDoorCasing
+    4300018: GlassDoor
+    4300020: GlassDoorFrame
+    4300022: Door
+    4300024: DoorLock
+    4300026: DoorHole
+    4300028: DoorHandle
+    4300030: DoorBolts
+    4300032: DoorFrame
+    4300034: Wall
+    4300036: Wall_Balcony
+    4300038: Cabinet
+    4300040: ArcLamp_Base
+    4300042: ArcLamp_Foot
+    4300044: ArcLamp_Arm
+    4300046: ArcLamp_Arc1
+    4300048: ArcLamp_Head
+    4300050: Sofa_Pillow1
+    4300052: Sofa_Pillow
+    4300054: Sofa_Head
+    4300056: Sofa_Cushion
+    4300058: Sofa_Body
+    4300060: Sofa_Arm1
+    4300062: Sofa_Arm
+    4300064: Sofa_Glass
+    4300066: Sofa_Glass1
+    4300068: TV75
+    4300070: TV_Base
+    4300072: Building_Floor
+    4300074: GlassDoorCasing1
+    4300076: GlassDoor
+    4300078: GlassDoorCasing2
+    4300080: GlassDoor
+    4300082: GlassDoorCasing
+    4300084: GlassDoor
+    4300086: GlassDoorFrame
+    4300088: Building_Floor
+    4300090: GlassDoorCasing1
+    4300092: GlassDoor
+    4300094: GlassDoorCasing2
+    4300096: GlassDoor
+    4300098: GlassDoorCasing
+    4300100: GlassDoor
+    4300102: GlassDoorFrame
+    4300104: Building_Floor
+    4300106: GlassDoorCasing1
+    4300108: GlassDoor
+    4300110: GlassDoorCasing2
+    4300112: GlassDoor
+    4300114: GlassDoorCasing
+    4300116: GlassDoor
+    4300118: GlassDoorFrame
+    4300120: Building_Floor
+    4300122: GlassDoorCasing1
+    4300124: GlassDoor
+    4300126: GlassDoorCasing2
+    4300128: GlassDoor
+    4300130: GlassDoorCasing
+    4300132: GlassDoor
+    4300134: GlassDoorFrame
+    4300136: Building_Floor
+    4300138: GlassDoorCasing1
+    4300140: GlassDoor
+    4300142: GlassDoorCasing2
+    4300144: GlassDoor
+    4300146: GlassDoorCasing
+    4300148: GlassDoor
+    4300150: GlassDoorFrame
+    4300152: Building_Floor
+    4300154: GlassDoorCasing1
+    4300156: GlassDoor
+    4300158: GlassDoorCasing2
+    4300160: GlassDoor
+    4300162: GlassDoorCasing
+    4300164: GlassDoor
+    4300166: GlassDoorFrame
+    4300168: Building_Floor
+    4300170: GlassDoorCasing1
+    4300172: GlassDoor
+    4300174: GlassDoorCasing2
+    4300176: GlassDoor
+    4300178: GlassDoorCasing
+    4300180: GlassDoor
+    4300182: GlassDoorFrame
+    4300184: Building_Floor1
+    4300186: Street_Level
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
